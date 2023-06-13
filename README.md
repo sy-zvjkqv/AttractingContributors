@@ -1,13 +1,17 @@
-# About
-Please tell me the favorite type or spesific shop of ramens. 好きなラーメン(種類、店など)を教えてください</br>
-Either Japanese or English is fine. 日本語英語どちらでもOK
+# My Project
+あなたの好きなアイスを教えて下さい
 
-Examples:
-* Miso ramen(味噌ラーメン)
-* Tokushima ramen(徳島ラーメン)
-* Tenkaippin(天下一品)
-* CUP NOODLE(カップヌードル)
+    • チョコやバニラなどの味を書いてください
 
-# List of Ramens
-* Karakara uo(辛辛魚)
-* Namae no nai ramenya(名前のないラーメン屋)
+    • ハーゲンダッツやパルムなど商品名でも構いません
+
+Please tell us your favorite ice cream
+
+    - Please write the flavor such as chocolate, vanilla, etc.
+
+    - You can also write the name of the product such as Haagen-Dazs, Palm, etc.
+
+
+# List 
+* mint chocolate chip
+* yukimi daihuku(雪見大福)

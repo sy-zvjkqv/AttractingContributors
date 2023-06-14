@@ -22,3 +22,5 @@ Please tell us your favorite ice cream
 * green tea
 
 * Giant Cone
+
+* Sou(爽)

@@ -24,3 +24,6 @@ Please tell us your favorite ice cream
 * Giant Cone
 
 * McDonald Cone
+
+* Sou(爽)
+

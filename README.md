@@ -27,3 +27,5 @@ Please tell us your favorite ice cream
 
 * Sou(爽)
 
+* Popping shower(Baskin Robbins)
+

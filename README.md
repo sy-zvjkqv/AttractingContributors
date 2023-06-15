@@ -12,6 +12,8 @@ I'm a ramen lover, so I'll go there!
 - 無鉄砲本店
 - 我道家
 - 猪一
+- Berashio
+- あのラーメン
 -
 -
 -

@@ -29,3 +29,4 @@ Please tell us your favorite ice cream
 
 * Popping shower(Baskin Robbins)
 
+* Famima's Retro Pudding Ice Cream Bar(ファミマのレトロプリンアイスバー)

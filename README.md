@@ -29,4 +29,6 @@ Please tell us your favorite ice cream
 
 * Popping shower(Baskin Robbins)
 
+* Topvalu(Vanilla Ice Cream)
+
 * Famima's Retro Pudding Ice Cream Bar(ファミマのレトロプリンアイスバー)

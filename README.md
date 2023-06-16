@@ -1,6 +1,9 @@
 # Who is your favorite actor?
-あなたのお気に入りの俳優は誰ですか？
+あなたの好きな俳優は誰ですか？
 
-All nationality welcome
+• 年代、性別、次元、国籍は問いません。
+Please tell us your favorite IDOL
+
+- Any age, gender, nationality or dimension is welcome.
 # List
 ・Benedict Cumberbatch

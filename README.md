@@ -15,6 +15,8 @@ I'm a ramen lover, so I'll go there!
 - Berashio
 - あのラーメン
 - フタツメ (新潟県)
+=======
+- 長浜ラーメン
 -
 -
 -

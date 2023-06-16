@@ -31,3 +31,4 @@ Please tell us your favorite ice cream
 
 * Topvalu(Vanilla Ice Cream)
 
+* Famima's Retro Pudding Ice Cream Bar(ファミマのレトロプリンアイスバー)

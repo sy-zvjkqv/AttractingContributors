@@ -14,7 +14,7 @@ I'm a ramen lover, so I'll go there!
 - 猪一
 - Berashio
 - あのラーメン
--
+- 長浜ラーメン
 -
 -
 -

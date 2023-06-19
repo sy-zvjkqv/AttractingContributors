@@ -11,6 +11,7 @@ Please tell us your favorite actor
 
 # List
 
+- Tatsuya Fujiwara
 - Brad Pitt
 - Tom Cruise:トム・クルーズ
 - 

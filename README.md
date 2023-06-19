@@ -11,4 +11,9 @@ Please tell us your favorite actor
 
 # List
 - Mads Mikkelsen
-- 
+- 有村架純
+- 橋本環奈  
+- MUkai osamu(向井　理）
+- Tatsuya Fujiwara
+- Brad Pitt
+- Tom Cruise:トム・クルーズ

@@ -10,6 +10,7 @@ Please tell us your favorite actor
     - Any age, gender or nationality is welcome.
 
 # List
+- Lee Van Cleef
 - Jim Carrey
 - gakki
 - Mads Mikkelsen

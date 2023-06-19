@@ -10,6 +10,7 @@ Please tell us your favorite actor
     - Any age, gender or nationality is welcome.
 
 # List
+- Jim Carrey
 - gakki
 - Mads Mikkelsen
 - 有村架純

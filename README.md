@@ -10,7 +10,7 @@ Please tell us your favorite actor
     - Any age, gender or nationality is welcome.
 
 # List
-
+- MUkai osamu(向井　理）
 - Tatsuya Fujiwara
 - Brad Pitt
 - Tom Cruise:トム・クルーズ

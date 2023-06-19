@@ -11,4 +11,7 @@ Please tell us your favorite actor
 
 # List
 - MUkai osamu(向井　理）
+- Tatsuya Fujiwara
+- Brad Pitt
+- Tom Cruise:トム・クルーズ
 - 
